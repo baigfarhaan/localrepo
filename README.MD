@@ -1,4 +1,4 @@
- .. remember the sequence  in Git
+ Remember the sequence  in Git
  once a new file is added unseer the actual folder
  run the below commands
  1. git status   (it show as untracked file)
